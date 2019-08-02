@@ -1,0 +1,12 @@
+README
+
+This is my final project for CS174A - Intro to Computer Graphics, taken Spring 2019 at UCLA.
+
+Most of the code I wrote is in the main-scene.js file, a skeleton for a previous project for a solar system.
+I modified the code to build a simple kayak game, where the object is to get the fastest lap time possible.
+All of the movement and placing of materials was done using linear algebra transformations.
+
+To try the game yourself, run the command "Python -m SimpleHTTPServer" within the term project directory, then open a browser to localhost:8000
+
+A similar, albeit slightly buggy version, of the project can be found at:
+https://174a-s19-projects.glitch.me/?1
